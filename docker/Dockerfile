@@ -1,5 +1,3 @@
-# FROM alpine:3.14
-
 FROM php:7.0-apache
 
 # install dependencies
